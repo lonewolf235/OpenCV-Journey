@@ -6,3 +6,5 @@ time.sleep(1)
 _,img=cam.read()
 cv2.imwrite("imagefrom camera.jpg",img)
 cam.release()
+
+#prakash tomar
